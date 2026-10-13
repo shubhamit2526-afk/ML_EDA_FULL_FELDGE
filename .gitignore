@@ -1,0 +1,54 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+ENV/
+env/
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.coverage
+htmlcov/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+.env
+.env.local
+logs/*.log
+models/versions/*
+!models/versions/.gitkeep
+models/*.joblib
+!models/.gitkeep
+data/interim/*.csv
+!data/interim/.gitkeep
+data/processed/*.csv
+!data/processed/.gitkeep
+
+# Dataset files
+
+Loan_Default.csv
+loan_data.csv
+test_processed.csv
+train_processed.csv
+
+# Exclude data and generated model artifacts
+
+data/
+models/
+
+# Python environments and cache
+
+.venv/
+**pycache**/
+*.py[cod]
+
+# Secrets
+
+.env
+.env.*
+
+# Keep example environment configuration, if present
+
+!.env.example
+

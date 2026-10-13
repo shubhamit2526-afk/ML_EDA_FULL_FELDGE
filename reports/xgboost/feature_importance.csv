@@ -1,0 +1,16 @@
+Feature,Importance
+LTV_isna,0.39730623
+property_value_isna,0.35275415
+lump_sum_payment_not_lpsm,0.04333128
+Neg_ammortization_not_neg,0.038127188
+submission_of_application_to_inst,0.020703578
+dtir1,0.016902294
+Loan_to_Income,0.01687067
+loan_type_type2,0.015154115
+LTV_calculated,0.01173599
+loan_type_type3,0.010973757
+LTV,0.008957512
+income,0.0074299457
+occupancy_type_pr,0.0059800255
+loan_purpose_p4,0.005894636
+dtir1_isna,0.005673654
